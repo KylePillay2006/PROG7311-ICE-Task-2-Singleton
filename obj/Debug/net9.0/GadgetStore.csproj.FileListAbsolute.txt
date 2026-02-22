@@ -1,0 +1,14 @@
+C:\Users\perez\VSCodeProjects\GadgetStore\obj\Debug\net9.0\GadgetStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perez\VSCodeProjects\GadgetStore\obj\Debug\net9.0\GadgetStore.AssemblyInfoInputs.cache
+C:\Users\perez\VSCodeProjects\GadgetStore\obj\Debug\net9.0\GadgetStore.AssemblyInfo.cs
+C:\Users\perez\VSCodeProjects\GadgetStore\obj\Debug\net9.0\GadgetStore.csproj.CoreCompileInputs.cache
+C:\Users\perez\VSCodeProjects\GadgetStore\bin\Debug\net9.0\GadgetStore.exe
+C:\Users\perez\VSCodeProjects\GadgetStore\bin\Debug\net9.0\GadgetStore.deps.json
+C:\Users\perez\VSCodeProjects\GadgetStore\bin\Debug\net9.0\GadgetStore.runtimeconfig.json
+C:\Users\perez\VSCodeProjects\GadgetStore\bin\Debug\net9.0\GadgetStore.dll
+C:\Users\perez\VSCodeProjects\GadgetStore\bin\Debug\net9.0\GadgetStore.pdb
+C:\Users\perez\VSCodeProjects\GadgetStore\obj\Debug\net9.0\GadgetStore.dll
+C:\Users\perez\VSCodeProjects\GadgetStore\obj\Debug\net9.0\refint\GadgetStore.dll
+C:\Users\perez\VSCodeProjects\GadgetStore\obj\Debug\net9.0\GadgetStore.pdb
+C:\Users\perez\VSCodeProjects\GadgetStore\obj\Debug\net9.0\GadgetStore.genruntimeconfig.cache
+C:\Users\perez\VSCodeProjects\GadgetStore\obj\Debug\net9.0\ref\GadgetStore.dll
