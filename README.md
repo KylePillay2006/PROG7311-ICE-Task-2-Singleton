@@ -177,7 +177,6 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 [![GitHub](https://img.shields.io/badge/GitHub-KylePillay2006-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KylePillay2006)
 [![YouTube](https://img.shields.io/badge/YouTube-%40ByteSizedCode123-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ByteSizedCode123)
 [![Portfolio](https://img.shields.io/badge/Portfolio-kylepillay2006.github.io-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://kylepillay2006.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kyle%20Pillay-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-pillay)
 
 <br/>
 
